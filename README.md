@@ -13,9 +13,9 @@ The Telco Customer Churn dataset is originally from IBM, given my previous exper
 - **Demographic Info:** Gender, age range, partner status, dependents.
 
 ## Interactive Dashboard on Tableau
-This dashboard uses techniques learned from the IBM: Business Intelligence course. It showcases skills in creating calculated fields, setting up parameters, and designing interactive dashboards to highlight important aspects of the data.
+This dashboard uses techniques learned from the IBM: Business Intelligence course. It showcases learnt skills in creating calculated fields, setting up parameters, and designing interactive dashboards to highlight important aspects of the data.
 
-For more information and to explore the dashboard, visit [Customer Insights Dashboard on Tableau Public](https://public.tableau.com/shared/GZYQD2RH4?:display_count=n&:origin=viz_share_link).
+Please explore & let me know what you think & where I could improve! [Customer Insights Dashboard on Tableau Public](https://public.tableau.com/shared/GZYQD2RH4?:display_count=n&:origin=viz_share_link).
 
 
 ## Data Wrangling Overview

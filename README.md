@@ -12,8 +12,6 @@ The Telco Customer Churn dataset is originally from IBM, given my previous exper
 - **Customer Account Info:** Tenure, contract type, payment method, paperless billing, monthly charges, total charges.
 - **Demographic Info:** Gender, age range, partner status, dependents.
 
-This dataset offers a comprehensive look at factors influencing customer churn.
-
 
 ## Data Wrangling Overview
 - **Loaded and previewed data** to get an initial understanding.

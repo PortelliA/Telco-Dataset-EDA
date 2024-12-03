@@ -1,0 +1,65 @@
+"Gender","Partner","StreamingTV","StreamingMovies","PaymentMethod","MonthlyChargesRange","Customer_count","Churn_Count","Churn_rate"
+"Female","No","No","No","Bank transfer (automatic)","$50 - $90",96,29,30
+"Female","No","No","No","Credit card (automatic)","$50 - $90",102,36,35
+"Female","No","No","No","Electronic check","$50 - $90",269,134,49
+"Female","No","No","No","Mailed check","< $50",166,57,34
+"Female","No","No","Yes","Bank transfer (automatic)","$50 - $90",35,9,25
+"Female","No","No","Yes","Credit card (automatic)","$50 - $90",37,12,32
+"Female","No","No","Yes","Electronic check","> $90",109,60,55
+"Female","No","No","Yes","Mailed check","$50 - $90",31,8,25
+"Female","No","Yes","No","Bank transfer (automatic)","$50 - $90",33,5,15
+"Female","No","Yes","No","Credit card (automatic)","$50 - $90",37,10,27
+"Female","No","Yes","No","Electronic check","$50 - $90",96,57,59
+"Female","No","Yes","No","Mailed check","< $50",27,10,37
+"Female","No","Yes","Yes","Bank transfer (automatic)","> $90",89,28,31
+"Female","No","Yes","Yes","Credit card (automatic)","> $90",90,18,20
+"Female","No","Yes","Yes","Electronic check","> $90",196,99,50
+"Female","No","Yes","Yes","Mailed check","$50 - $90",42,12,28
+"Female","Yes","No","No","Bank transfer (automatic)","$50 - $90",98,14,14
+"Female","Yes","No","No","Credit card (automatic)","$50 - $90",75,14,18
+"Female","Yes","No","No","Electronic check","< $50",109,47,43
+"Female","Yes","No","No","Mailed check","$50 - $90",75,16,21
+"Female","Yes","No","Yes","Bank transfer (automatic)","$50 - $90",54,8,14
+"Female","Yes","No","Yes","Credit card (automatic)","$50 - $90",40,9,22
+"Female","Yes","No","Yes","Electronic check","> $90",67,25,37
+"Female","Yes","No","Yes","Mailed check","$50 - $90",23,3,13
+"Female","Yes","Yes","No","Bank transfer (automatic)","> $90",48,9,18
+"Female","Yes","Yes","No","Credit card (automatic)","$50 - $90",46,5,10
+"Female","Yes","Yes","No","Electronic check","$50 - $90",72,29,40
+"Female","Yes","Yes","No","Mailed check","$50 - $90",21,4,19
+"Female","Yes","Yes","Yes","Bank transfer (automatic)","> $90",162,23,14
+"Female","Yes","Yes","Yes","Credit card (automatic)","> $90",165,22,13
+"Female","Yes","Yes","Yes","Electronic check","> $90",194,64,32
+"Female","Yes","Yes","Yes","Mailed check","$50 - $90",37,7,18
+"Male","No","No","No","Bank transfer (automatic)","< $50",91,20,21
+"Male","No","No","No","Credit card (automatic)","$50 - $90",96,23,23
+"Male","No","No","No","Electronic check","$50 - $90",257,141,54
+"Male","No","No","No","Mailed check","$50 - $90",184,59,32
+"Male","No","No","Yes","Bank transfer (automatic)","$50 - $90",38,5,13
+"Male","No","No","Yes","Credit card (automatic)","$50 - $90",40,8,20
+"Male","No","No","Yes","Electronic check","< $50",87,43,49
+"Male","No","No","Yes","Mailed check","$50 - $90",29,9,31
+"Male","No","Yes","No","Bank transfer (automatic)","$50 - $90",33,6,18
+"Male","No","Yes","No","Credit card (automatic)","$50 - $90",39,9,23
+"Male","No","Yes","No","Electronic check","$50 - $90",90,48,53
+"Male","No","Yes","No","Mailed check","$50 - $90",26,8,30
+"Male","No","Yes","Yes","Bank transfer (automatic)","> $90",86,21,24
+"Male","No","Yes","Yes","Credit card (automatic)","$50 - $90",68,19,27
+"Male","No","Yes","Yes","Electronic check","> $90",194,98,50
+"Male","No","Yes","Yes","Mailed check","> $90",40,15,37
+"Male","Yes","No","No","Bank transfer (automatic)","< $50",93,22,23
+"Male","Yes","No","No","Credit card (automatic)","$50 - $90",90,8,8
+"Male","Yes","No","No","Electronic check","< $50",140,61,43
+"Male","Yes","No","No","Mailed check","< $50",77,14,18
+"Male","Yes","No","Yes","Bank transfer (automatic)","$50 - $90",48,9,18
+"Male","Yes","No","Yes","Credit card (automatic)","$50 - $90",69,10,14
+"Male","Yes","No","Yes","Electronic check","< $50",62,27,43
+"Male","Yes","No","Yes","Mailed check","$50 - $90",23,2,8
+"Male","Yes","Yes","No","Bank transfer (automatic)","$50 - $90",52,5,9
+"Male","Yes","Yes","No","Credit card (automatic)","> $90",47,2,4
+"Male","Yes","Yes","No","Electronic check","> $90",69,29,42
+"Male","Yes","Yes","No","Mailed check","< $50",31,7,22
+"Male","Yes","Yes","Yes","Bank transfer (automatic)","> $90",156,27,17
+"Male","Yes","Yes","Yes","Credit card (automatic)","> $90",150,18,12
+"Male","Yes","Yes","Yes","Electronic check","> $90",232,94,40
+"Male","Yes","Yes","Yes","Mailed check","$50 - $90",39,6,15

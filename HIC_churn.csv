@@ -1,0 +1,94 @@
+"Partner","MultipleLines","TechSupport","Contract","Senior_Citizen","Customer_Count","Churn_count","Churn_rate"
+"No","No","No","Month-to-month","No",686,349,50
+"No","No","No","Month-to-month","Yes",166,90,54
+"No","No","No internet service","Month-to-month","No",348,70,20
+"No","No","No internet service","Month-to-month","Yes",8,3,37
+"No","No","Yes","Month-to-month","No",190,57,30
+"No","No","Yes","Month-to-month","Yes",15,7,46
+"No","No","No","One year","No",69,6,8
+"No","No","No","One year","Yes",8,2,25
+"No","No","No internet service","One year","No",152,3,1
+"No","No","No internet service","One year","Yes",6,0,0
+"No","No","Yes","One year","No",95,14,14
+"No","No","Yes","One year","Yes",8,1,12
+"No","No","No","Two year","No",16,1,6
+"No","No","No internet service","Two year","No",149,2,1
+"No","No","No internet service","Two year","Yes",5,0,0
+"No","No","Yes","Two year","No",56,3,5
+"No","No","Yes","Two year","Yes",4,1,25
+"No","No phone service","No","Month-to-month","No",146,64,43
+"No","No phone service","No","Month-to-month","Yes",38,25,65
+"No","No phone service","Yes","Month-to-month","No",51,13,25
+"No","No phone service","Yes","Month-to-month","Yes",7,2,28
+"No","No phone service","No","One year","No",29,4,13
+"No","No phone service","No","One year","Yes",6,1,16
+"No","No phone service","Yes","One year","No",40,0,0
+"No","No phone service","No","Two year","No",8,0,0
+"No","No phone service","No","Two year","Yes",1,0,0
+"No","No phone service","Yes","Two year","No",44,0,0
+"No","No phone service","Yes","Two year","Yes",1,0,0
+"No","Yes","No","Month-to-month","No",476,253,53
+"No","Yes","No","Month-to-month","Yes",202,131,64
+"No","Yes","No internet service","Month-to-month","No",30,3,10
+"No","Yes","Yes","Month-to-month","No",107,40,37
+"No","Yes","Yes","Month-to-month","Yes",25,8,32
+"No","Yes","No","One year","No",84,12,14
+"No","Yes","No","One year","Yes",18,3,16
+"No","Yes","No internet service","One year","No",26,2,7
+"No","Yes","No internet service","One year","Yes",2,0,0
+"No","Yes","Yes","One year","No",82,16,19
+"No","Yes","Yes","One year","Yes",18,4,22
+"No","Yes","No","Two year","No",30,2,6
+"No","Yes","No","Two year","Yes",5,0,0
+"No","Yes","No internet service","Two year","No",58,1,1
+"No","Yes","No internet service","Two year","Yes",4,0,0
+"No","Yes","Yes","Two year","No",100,7,7
+"No","Yes","Yes","Two year","Yes",22,0,0
+"Yes","No","No","Month-to-month","No",289,116,40
+"Yes","No","No","Month-to-month","Yes",76,38,50
+"Yes","No","No internet service","Month-to-month","No",119,19,15
+"Yes","No","No internet service","Month-to-month","Yes",3,2,66
+"Yes","No","Yes","Month-to-month","No",103,23,22
+"Yes","No","Yes","Month-to-month","Yes",14,6,42
+"Yes","No","No","One year","No",104,15,14
+"Yes","No","No","One year","Yes",16,0,0
+"Yes","No","No internet service","One year","No",137,4,2
+"Yes","No","No internet service","One year","Yes",5,0,0
+"Yes","No","Yes","One year","No",95,12,12
+"Yes","No","Yes","One year","Yes",17,2,11
+"Yes","No","No","Two year","No",37,0,0
+"Yes","No","No","Two year","Yes",5,0,0
+"Yes","No","No internet service","Two year","No",247,0,0
+"Yes","No","No internet service","Two year","Yes",5,0,0
+"Yes","No","Yes","Two year","No",125,3,2
+"Yes","No","Yes","Two year","Yes",12,0,0
+"Yes","No phone service","No","Month-to-month","No",78,25,32
+"Yes","No phone service","No","Month-to-month","Yes",31,15,48
+"Yes","No phone service","Yes","Month-to-month","No",22,9,40
+"Yes","No phone service","Yes","Month-to-month","Yes",3,0,0
+"Yes","No phone service","No","One year","No",30,6,20
+"Yes","No phone service","No","One year","Yes",5,0,0
+"Yes","No phone service","Yes","One year","No",33,2,6
+"Yes","No phone service","Yes","One year","Yes",2,1,50
+"Yes","No phone service","No","Two year","No",17,2,11
+"Yes","No phone service","No","Two year","Yes",4,0,0
+"Yes","No phone service","Yes","Two year","No",80,1,1
+"Yes","No phone service","Yes","Two year","Yes",6,0,0
+"Yes","Yes","No","Month-to-month","No",307,140,45
+"Yes","Yes","No","Month-to-month","Yes",185,104,56
+"Yes","Yes","No internet service","Month-to-month","No",15,2,13
+"Yes","Yes","No internet service","Month-to-month","Yes",1,0,0
+"Yes","Yes","Yes","Month-to-month","No",101,31,30
+"Yes","Yes","Yes","Month-to-month","Yes",33,10,30
+"Yes","Yes","No","One year","No",142,24,16
+"Yes","Yes","No","One year","Yes",46,9,19
+"Yes","Yes","No internet service","One year","No",33,0,0
+"Yes","Yes","No internet service","One year","Yes",3,0,0
+"Yes","Yes","Yes","One year","No",132,17,12
+"Yes","Yes","Yes","One year","Yes",30,6,20
+"Yes","Yes","No","Two year","No",95,7,7
+"Yes","Yes","No","Two year","Yes",18,2,11
+"Yes","Yes","No internet service","Two year","No",160,2,1
+"Yes","Yes","No internet service","Two year","Yes",10,0,0
+"Yes","Yes","Yes","Two year","No",328,11,3
+"Yes","Yes","Yes","Two year","Yes",43,3,6

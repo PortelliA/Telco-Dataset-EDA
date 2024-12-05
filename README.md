@@ -1,7 +1,7 @@
 # Telco Customer Churn Analysis
 
 ## Introduction
-This is a personal project using data analysis techniques to create A/B testing suggestions based on the EDA. The Telco Customer Churn dataset was suggested for those new to this style of analysis. The data was sourced from [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn).
+This is a personal project using data analysis techniques to business suggestions based on the EDA. The Telco Customer Churn dataset was suggested for those new to this style of analysis. The data was sourced from [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn).
 
 ## Dataset Summary
 
@@ -160,25 +160,24 @@ While individual variables previously showed certain trends, combining them reve
 
 
 
-## Recommendations for A/B Testing
+## Recommendations 
 
 ### 1. Implement a Price Reduction Scheme Based on Tenure
-- **Hypothesis:** Offering a price reduction scheme based on tenure will reduce churn among month-to-month contract customers, especially in the early months.
+- **Suggestion:** Offer a price reduction scheme based on tenure to reduce churn among mon-to-month contract customers, especially in the early months
 - **Action:** Introduce a loyalty-based price reduction for month-to-month customers, where discounts increase with each month they stay subscribed, up to a certain period. This rewards early retention and encourages long-term commitment.
-- **Target:** Reduce churn by 10% among month-to-month contract customers within the first year.
+- **Target:** Aim to reduce churn by 10% among month-to-month contract customers within the first year.
 - **Time Frame:** 12 months for implementation and evaluation. Would need to observe the current pipeline of higher churning customers over a longer period because a 6-month window would be too short to capture actual trends and impacts.
 
 ### 2. Investigate and Address Issues with Electronic Check Payment Method
-- **Hypothesis:** Addressing issues associated with electronic check payments will reduce churn among these users.
+- **Suggestion:** address issues associated with electronic check payments to reduce churn among these customers.
 - **Action:** Conduct surveys to identify issues with electronic check payments while offering incentives to switch to more stable payment methods to those who complete the survey.
 - **Target:** Reduce churn by 20% among customers using electronic check payments.
 - **Time Frame:** 2 months to investigate and identify the issue. Followed by 3 months for implementing changes and evaluation.
 
 ### 3. Develop a Senior Citizen Support Program
-- **Hypothesis:** Providing tailored support and benefits for senior citizens will reduce churn among this demographic.
+- **Suggestion:** Provide tailored support and benefits for senior citizens will reduce churn among this demographic.
 - **Action:** Implement a specialized support program for senior citizens that includes:
   - **Dedicated Customer Service:** Offer a dedicated helpline with agents trained to assist senior citizens with any service-related issues.
-  - **Discounts and Benefits:** Provide discounts on services and exclusive benefits tailored to the needs of senior citizens.
   - **Tech Support and Education:** Offer free or discounted technical support and education programs to help senior citizens utilize services more effectively.
 - **Target:** Reduce churn by 15% among senior citizens.
 - **Time Frame:** 12 months for implementation and evaluation. We need to observe the impact over a longer period to capture meaningful trends and outcomes.

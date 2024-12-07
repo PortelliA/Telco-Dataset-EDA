@@ -1,7 +1,7 @@
 # Telco Customer Churn Analysis
 
 ## Introduction
-This is a personal project using data analysis techniques to business suggestions based on the EDA. The Telco Customer Churn dataset was suggested for those new to this style of analysis. The data was sourced from [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn).
+This is a personal project using r tidyverse & SQL to make suggestions based on the EDA. The data was sourced from [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn).
 
 ## Dataset Summary
 
@@ -13,7 +13,7 @@ The Telco Customer Churn dataset is originally from IBM, given my previous exper
 - **Demographic Info:** Gender, age range, partner status, dependents.
 
 ## Interactive Dashboard on Tableau
-This dashboard uses techniques learned from the IBM: Business Intelligence course. It showcases learnt skills in creating calculated fields, setting up parameters, and designing interactive dashboards to highlight important aspects of the data.
+This dashboard uses skills learned from the IBM: Business Intelligence course. It showcases my learning in creating calculated fields, setting up parameters, and designing interactive dashboards to highlight important aspects of the data.
 
 Please explore & let me know what you think & where I could improve! [Customer Insights Dashboard on Tableau Public](https://public.tableau.com/shared/GZYQD2RH4?:display_count=n&:origin=viz_share_link).
 
